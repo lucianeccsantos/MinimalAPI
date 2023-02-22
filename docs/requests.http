@@ -1,0 +1,4 @@
+GET http://localhost:5108/olaRequest?name=Luciane HTTP/1.1
+POST http://localhost:5108/test HTTP/1.1
+Accept: application/json
+10,luciane
